@@ -1,0 +1,9 @@
+server:
+  port: 8001
+aliyun:
+  storage:
+    endpoint: http://oss-cn-shanghai.aliyuncs.com
+    accessKeyId: <yourAccessKeyId>
+    accessKeySecret: <yourAccessKeySecret>
+    bucketName: <yourSourceBucketName>
+
